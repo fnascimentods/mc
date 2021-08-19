@@ -1,4 +1,4 @@
-const connection = require('../database');
+const connection = require('../database/database');
 
 async function findAll() {
     
